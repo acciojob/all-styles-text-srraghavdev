@@ -3,7 +3,7 @@ h1{  color: white;
    font-size:20px;
 	
 }
-div{
+#heading{ 
 		width:200px;
 	background-color: purple;
 	border-left: 5px;
