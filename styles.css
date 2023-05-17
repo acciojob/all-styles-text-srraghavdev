@@ -3,14 +3,13 @@
    font-size:20px;
 	
 }
-#heading{ 
-		width:200px;
+
+#main{
+	width:200px;
 	background-color: purple;
-	border-left: 5px;
 	border-left-color: green;
 	padding: 10px;
 	border-left-width: 5px;
-		border-style:solid;
+	border-style:solid;
 }
-
 /* Your CSS Code here. */
