@@ -9,4 +9,7 @@ h1{
 	text-decoration: underline;
 	border-left-style: solid;
 }
+div{
+		width:200px;
+}
 /* Your CSS Code here. */
