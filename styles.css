@@ -1,2 +1,12 @@
-
+h1{
+    background-color: purple;
+    border-left: 5px;
+	border-left-color: green;
+    padding: 20px;
+	border-left-width: 5px;
+    text-size-adjust: 20px;
+    color: white;
+	text-decoration: underline;
+	border-left-style: solid;
+}
 /* Your CSS Code here. */
